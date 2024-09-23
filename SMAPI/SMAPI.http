@@ -1,0 +1,6 @@
+@SMAPI_HostAddress = http://localhost:5174
+
+GET {{SMAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
